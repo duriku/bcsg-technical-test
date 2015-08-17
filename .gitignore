@@ -1,15 +1,8 @@
 *.class
 target
 *.settings
-*.clover
 *.classpath
-*.springbeans
 *.project
-*.springwebflow
 *.idea
 *.iml
 dist
-TODO
-bin
-*catalina.base_IS_UNDEFINED*
-*.DS_Store
